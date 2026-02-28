@@ -4,7 +4,7 @@ A seamless, scrolling hardware monitor for the Raspberry Pi 5 using an I2C SSD13
 
 ## Hardware Requirements
 * Raspberry Pi 5
-* SSD1306 OLED Display (128x32 resolution)
+* SSD1306 OLED Display (128x32 resolution) - The one I have: https://www.amazon.ca/dp/B07D3LPVLC
 * I2C enabled via `raspi-config` (Address `0x3c` on Port 1)
 
 ## Setup & Installation
